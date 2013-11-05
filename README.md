@@ -1,4 +1,4 @@
-go-kt
+kyototycoon-go
 ================================
 
 A simple library for interacting with a KT server. Uses base64-encoded TSV over
